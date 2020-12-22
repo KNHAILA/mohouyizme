@@ -4,4 +4,5 @@
 
 ---
 
+![](https://1337-readme-git-fork-reversablecode-main.mohouyizme.vercel.app/api/profile?login=ozaazaa&cursus=42&email=hide)
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?login=toxiic&dark=true)](https://github.com/mohouyizme/1337-readme)
